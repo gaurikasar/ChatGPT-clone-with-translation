@@ -1,3 +1,3 @@
 # ChatGPT-Clone
 
-![Screenshot](Project1.PNG)
+![Screenshot](Project1 .png)
